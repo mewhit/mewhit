@@ -1,6 +1,6 @@
 # Hi, I am Mike Whittom 👋
 
-<p><em>:computer:Software Engineer:computer:
+<p><em>:computer:Software Engineer at <a href="www.kumojin.com">Kumojin</a>:computer:
 </br>:golf:CTO of <a href="www.mybuddiestrip.com">MyBuddiesTrip :golf:</a>
 </br>:teacher:Developer Consultant:teacher:</em></p>
 
