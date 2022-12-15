@@ -1,5 +1,10 @@
-### Hi, I am Mike Whittom 👋
+# Hi, I am Mike Whittom 👋
 
+## Software Engineer
+## CTO of www.mybuddiestrip.com
+## Developer Consultant  
+
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/mewhit?style=social)](https://twitter.com/mewhit)
 ```typescript
 const Mike = {
   languages: ["French","English"],
@@ -7,7 +12,7 @@ const Mike = {
   codes: ["ELM", "F#", "Javascript", "Typescript", "C#","HTML", "CSS"],
   frameworks: ["Nestjs", "React", "Knex", "Entity Framework", "TailwindCss"],
   adminSystems: ["Docker", "k8s", "kafka", "aws"],
-  database: ["mysql, "mongo", "file system"],
+  database: ["mysql", "mongo", "file system"],
   currentlyWorkAt: "Kumojin",
   olderEmployer: ["Vooban"],
   funFact: "We can only reach perfection by making mistake",
