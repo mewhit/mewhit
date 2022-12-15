@@ -1,7 +1,7 @@
 # Hi, I am Mike Whittom 👋
 
 <p><em>Software Engineer
-</br><em>CTO of <a href="www.mybuddiestrip.com">MyBuddiesTrip</a>
+</br><em>CTO of <a href="www.mybuddiestrip.com">MyBuddiesTrip :golf:</a>
 </br>Developer Consultant</em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/mewhit?style=social)](https://twitter.com/mewhit)
